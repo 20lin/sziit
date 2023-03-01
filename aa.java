@@ -9,5 +9,6 @@ public class GitTag {
               System.out.println("Version1.0  ");
               System.out.println("Version2.0  蓝筹股");
               System.out.println("Version2.0  来敲门");
+              System.out.println("Version2.0  研讨会");
               
        }
